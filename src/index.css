@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Khand:wght@300&family=Roboto:wght@400&display=swap');
+
+:root {
+  --color-primary: #302b63;
+}
+
+.text-color-primary {
+  color: var(--color-primary);
+}
+
+body {
+  font-family: 'Roboto', sans-serif !important;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
