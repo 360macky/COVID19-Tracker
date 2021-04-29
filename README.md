@@ -1,4 +1,4 @@
-<h1 align="center">COVID-19 Smart Tracker</h1>
+<h1 align="center">🦠 COVID-19 Smart Tracker 🔬</h1>
 
 <p align="center">
     COVID-19 smart tracker powered by React.js
