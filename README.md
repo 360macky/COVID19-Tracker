@@ -16,7 +16,7 @@
 </p>
 
 ## 🚀 Deployment
-The deployment of this tool was done through **Vercel**.
+The deployment of this tool was done through **Vercel**. You can check the deployment version [here](https://covid-19-smart-tracker.vercel.app/).
 
 ## 🔨 Builded with
 ### Material UI
