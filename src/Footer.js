@@ -39,7 +39,7 @@ export default function Footer() {
         <ul className="footer__section-links">
           <li>
             <a
-              href="https://github.com/360macky/manzana/blob/master/LICENSE"
+              href="https://github.com/360macky/COVID19-Tracker/blob/master/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -48,7 +48,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://github.com/360macky/manzana"
+              href="https://github.com/360macky/COVID19-Tracker"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -57,7 +57,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://github.com/360macky/manzana/graphs/contributors"
+              href="https://github.com/360macky/COVID19-Tracker/graphs/contributors"
               target="_blank"
               rel="noopener noreferrer"
             >
