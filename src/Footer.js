@@ -4,27 +4,14 @@ import './Footer.css';
 export default function Footer() {
   return (
     <foooter className="footer">
-      {/* 
-                Repository
-                GitHub personal
-                LinkedIn
-                Portfolio
-
-                WHO
-                API COVID
-                Coronavirus WHO
-
-		React
-		Leaflet
-                CRA
-
-                My email
-            
-            */}
       <div className="footer__section">
         <h2 className="footer__section-title">COVID-19 information</h2>
         <ul className="footer__section-links">
-          <li>World Health Organization</li>
+          <li>
+            <a href="https://www.who.int/en">
+              World Health Organization
+            </a>
+          </li>
           <li>COVID-19 API</li>
           <li>Coronavirus (WHO)</li>
         </ul>
@@ -40,7 +27,11 @@ export default function Footer() {
       <div className="footer__section">
         <h2 className="footer__section-title">Contact</h2>
         <ul className="footer__section-links">
-          <li>mail.marcelo.as@gmail.com</li>
+          <li>
+            <a href="mailto:mail.marcelo.as@gmail.com">
+              Email
+            </a>
+          </li>
         </ul>
       </div>
       <div className="footer__section">
@@ -52,7 +43,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Licencia
+              License
             </a>
           </li>
           <li>
@@ -61,7 +52,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Repositorio
+              Repository
             </a>
           </li>
           <li>
@@ -70,17 +61,17 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Contribuidores
+              Contributors
             </a>
           </li>
           <li>
             <a
-              href="https://marceloarias.com"
+              href="https://portfolio.marceloarias.com"
               target="_blank"
               rel="noopener noreferrer"
               title="Marcelo Arias portfolio"
             >
-              Autor original
+              Portfolio
             </a>
           </li>
         </ul>
