@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 import './Footer.css';
 
 export default function Footer() {
-    return (
-        <foooter className="footer">
-            {/* 
+  return (
+    <foooter className="footer">
+      {/* 
                 Repository
                 GitHub personal
                 LinkedIn
@@ -26,7 +26,7 @@ export default function Footer() {
         <ul className="footer__section-links">
           <li>World Health Organization</li>
           <li>COVID-19 API</li>
-	  <li>Coronavirus (WHO)</li>
+          <li>Coronavirus (WHO)</li>
         </ul>
       </div>
       <div className="footer__section">
@@ -85,7 +85,6 @@ export default function Footer() {
           </li>
         </ul>
       </div>
-        </foooter>
-    )
+    </foooter>
+  );
 }
-
