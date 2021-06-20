@@ -1,7 +1,7 @@
 <h1 align="center">🦠 COVID-19 Smart Tracker 🔬</h1>
 
 <p align="center">
-    COVID-19 smart tracker powered by React.js
+    COVID-19 smart tracker powered by React library
 </p>
 
 
@@ -16,7 +16,13 @@
 </p>
 
 ## 🚀 Deployment
-The deployment of this tool was done through **Vercel**. You can check the deployment version [here](https://covid-19-smart-tracker.vercel.app/).
+The deployment of this tool was done through [**Vercel**](https://vercel.com/).
+You can check the deployment version [here](https://covid-19-smart-tracker.vercel.app/).
+
+📦 Install the dependencies
+```bash
+npm install
+```
 
 ## 🔨 Builded with
 ### Material UI
